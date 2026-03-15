@@ -137,7 +137,7 @@ Eklentiniz şu hata kodlarını döndürebilir:
 - `makineai_initialize(dataPath)` ile verilen dizine: `AppData/Local/MakineAI/plugin-data/<eklenti-id>/`
 
 **makine-pack.py aracını nereden bulurum?**
-- [MakineAI-Launcher/scripts/tools/makine-pack.py](https://github.com/MakineCeviri/MakineAI-Launcher/blob/main/scripts/tools/makine-pack.py)
+- [MakineAI-Launcher/scripts/tools/makine-pack.py](https://github.com/MakineCeviri/MakineAI-Plugin-Template/blob/main/makine-pack.py)
 
 ## Yardım ve İletişim
 
